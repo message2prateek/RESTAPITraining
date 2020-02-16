@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 13 15:44:54 NZDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0167-0af5-1930-000017ed12e0 
+on database directory memory:C:\dev\Documents\Notes\API Training\REST API\session4\API-training-jars\testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@2e5d6d97 
+Loaded from jar:file:/C:/dev/Documents/Notes/API%20Training/REST%20API/session4/API-training-jars/PizzaApi-1.4-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.1.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\dev\Documents\Notes\API Training\REST API\session4\API-training-jars
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
